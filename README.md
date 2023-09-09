@@ -1,9 +1,39 @@
 # Zuber Data Analysis
 
+<h2>Summary</h2>
+
 This project performs data preprocessing and exploratory and statistical data analysis after SQL queries narrowed down the scope of the data to the correct date and locations in order to help a ride-sharing application make decisions about its market share.
 
-To access locally:
+<h2>Table of Contents</h2>
 
-Clone the main repository to your computer, then open it on your IDE of choice. This was written with a Jupyter kernel with a base of Python 3.9.13 and will work best with these settings.
+1. SQL Queries (queries.sql)
+    - narrowing down the scope of a larger dataset to certain date ranges, company names, neighborhoods, and weather conditions
+3. Parsing Data (parse_data.py)
+    - obtaining weather records
+4. Exploratory Data Analysis (notebooks > EDA.ipynb)
+      
+        a) Project introduction
+        b) Library and data importation
+        c) Data preprocessing - finding and removing duplicate values, filling in missing values, etc.
+        d) Identifying and displaying top ten dropoff neighborhoods (bar chart)
+        e) Looking at the number of trips cab companies take in the given time frame (bar chart)
+        f) Testing hypotheses about the effect of rainy weather on ride duration
+        g) Project conclusion
+
+
+<h2>Local Access</h2>
+
+1. Make sure you are using Python version 3.9.13 locally
+2. Clone the repository from GitHub to your local machine 
+3. Access the repository's main branch on your terminal. 
+4. Open Jupyter Notebook using the platform of your choice
+5. Set up a Jupyter kernal to use Python 3.9.13
+6. Select "Run All"
+
+<h2>Plans for updates</h2>
+
+I am planning to edit some of the labels on the bar charts to make it clearer what they are evaluating, as well as labeling the SQL queries to show what data they are searching for. 
+
+<h2>Sample Graph</h2>
 
 ![zuber_sample](https://github.com/LDeYoung17/zuber-practicum/assets/70500225/07e22a1b-dd38-4e88-885e-84b7f9fc9d46)
