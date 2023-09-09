@@ -27,7 +27,7 @@ This project performs data preprocessing and exploratory and statistical data an
 2. Clone the repository from GitHub to your local machine 
 3. Access the repository's main branch on your terminal. 
 4. Open Jupyter Notebook using the platform of your choice
-5. Set up a Jupyter kernal to use Python 3.9.13
+5. Set up a Jupyter kernel to use Python 3.9.13
 6. Select "Run All"
 
 <h2>Plans for updates</h2>
