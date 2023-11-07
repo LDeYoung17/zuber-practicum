@@ -8,14 +8,14 @@ This project performs data preprocessing and exploratory and statistical data an
 
 1. SQL Queries (queries.sql)
     - narrowing down the scope of a larger dataset to certain date ranges, company names, neighborhoods, and weather conditions
-3. Parsing Data (parse_data.py)
+2. Parsing Data (parse_data.py)
     - obtaining weather records
-4. Exploratory Data Analysis (notebooks > EDA.ipynb)
+3. Exploratory Data Analysis (notebooks > EDA.ipynb)
       
         a) Project introduction
         b) Library and data importation
         c) Data preprocessing - finding and removing duplicate values, filling in missing values, etc.
-        d) Identifying and displaying top ten dropoff neighborhoods (bar chart)
+        d) Identifying and displaying the top ten dropoff neighborhoods (bar chart)
         e) Looking at the number of trips cab companies take in the given time frame (bar chart)
         f) Testing hypotheses about the effect of rainy weather on ride duration
         g) Project conclusion
@@ -32,7 +32,8 @@ This project performs data preprocessing and exploratory and statistical data an
 
 <h2>Plans for updates</h2>
 
-I am planning to edit some of the labels on the bar charts to make it clearer what they are evaluating, as well as labeling the SQL queries to show what data they are searching for. 
+Edit the labels on the bar charts using matplotlib to make it clearer what they are evaluating. 
+Label the SQL queries using comments to show what data they are searching for. 
 
 <h2>Sample Graph</h2>
 
