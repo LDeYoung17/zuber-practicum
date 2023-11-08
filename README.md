@@ -38,3 +38,10 @@ Label the SQL queries using comments to show what data they are searching for.
 <h2>Sample Graph</h2>
 
 ![zuber_sample](https://github.com/LDeYoung17/zuber-practicum/assets/70500225/07e22a1b-dd38-4e88-885e-84b7f9fc9d46)
+
+
+<h2>Portfolio Link</h2>
+
+https://ldeyoung17.github.io/
+
+This is my portfolio where all my projects, including this one, can be found, as well as more information about my experience as a Data Scientist and Software Engineer.
