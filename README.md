@@ -23,8 +23,6 @@ This project performs data preprocessing and exploratory and statistical data an
 
 <h2>Local Access</h2>
 
-<h2>Local Access</h2>
-
 This project will require Python 3.9.13 or later and PostgreSQL.
 
 All packages required can be installed from the requirements.txt file by executing the command 'pip install -r requirements.txt'
