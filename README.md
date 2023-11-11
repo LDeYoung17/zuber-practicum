@@ -40,6 +40,9 @@ Label the SQL queries using comments to show what data they are searching for.
 
 ![zuber_sample](https://github.com/LDeYoung17/zuber-practicum/assets/70500225/07e22a1b-dd38-4e88-885e-84b7f9fc9d46)
 
+<h2>Demonstration Video</h2>
+
+https://drive.google.com/file/d/1tTvXgZJMXbEvCrsTTDoDkp7S29rLuEud/view?usp=drive_link
 
 <h2>Portfolio Link</h2>
 
